@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-<img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=apenasguil&show_icons=true&theme=github_dark">
 <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasguil&layout=compact&show_icons=true&theme=github_dark&hide=handlebars)">
+<img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=apenasguil&show_icons=true&theme=github_dark">
 </div>
 
 <br>
